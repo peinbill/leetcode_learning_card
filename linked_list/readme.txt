@@ -1,1 +1,2 @@
 SolutionOffer18: 凡是链表都应该准备双指针
+Solution19: 哑结点或者递归
