@@ -1,0 +1,1 @@
+SolutionOffer50: 方法一：使用Counter(但速度迷之慢)，方法二，使用Dict
