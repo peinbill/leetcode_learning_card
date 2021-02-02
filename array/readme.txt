@@ -5,3 +5,4 @@ Solution240: 方法一：用斜对角的元素的行和列依次作二分查找�
 SolutionOffer05: 最简单用字符串的replace，其次则是考虑字符串的遍历方法
 SolutionOffer29: 这种方法使用top,left,right,bottom即可
 SolutionOffer39: 用最簡單的方法，字典+2次遍歷
+SolutionOffer53: 方法一：使用顺序遍历 方法二：使用二分查找
